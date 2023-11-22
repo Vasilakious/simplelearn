@@ -8,7 +8,7 @@ Our platform offers a range of courses and resources for individuals at every sk
 
 ## Programming Language Courses
 
-(_Below is a brief overview of the programming language courses offered on [SimpleLearn](simplelearn.local)._)
+(_Below is a brief overview of the programming language courses offered on [SimpleLearn](https://simplelearn.local)._)
 
 ### Python
 - **Course Path**: Basic Concepts, Control Structures, Functions & Modules, Data Structures, Object-Oriented Programming (OOP), Advanced Topics.
