@@ -1,0 +1,83 @@
+[14-Nov-2023 13:16:27 UTC] PHP Warning:  require(C:\Users\harri\Local Sites\simplelearn\app\public/wp-includes/option.php): Failed to open stream: No such file or directory in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\functions.php on line 8
+[14-Nov-2023 13:16:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\harri\Local Sites\simplelearn\app\public/wp-includes/option.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\functions.php:8
+Stack trace:
+#0 C:\Users\harri\Local Sites\simplelearn\app\public\wp-load.php(73): require_once()
+#1 C:\Users\harri\Local Sites\simplelearn\app\public\wp-blog-header.php(13): require_once('C:\\Users\\harri\\...')
+#2 C:\Users\harri\Local Sites\simplelearn\app\public\index.php(17): require('C:\\Users\\harri\\...')
+#3 {main}
+  thrown in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\functions.php on line 8
+[14-Nov-2023 14:15:54 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[14-Nov-2023 14:15:54 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[15-Nov-2023 10:47:46 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[15-Nov-2023 10:47:46 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[15-Nov-2023 11:30:56 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[15-Nov-2023 11:30:56 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:29 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:30 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:31 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:32 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:33 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:34 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:35 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:36 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:37 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:38 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:39 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:40 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[15-Nov-2023 12:01:41 UTC] Xdebug: [Step Debug] Time-out connecting to debugging client, waited: 200 ms. Tried: localhost:9003 (fallback through xdebug.client_host/xdebug.client_port) :-(
+[16-Nov-2023 16:18:10 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:18:10 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[16-Nov-2023 16:18:48 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:18:48 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[16-Nov-2023 16:19:10 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:19:10 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[16-Nov-2023 16:25:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[16-Nov-2023 16:25:43 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:25:43 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[16-Nov-2023 16:26:23 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:26:23 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
+[16-Nov-2023 16:28:44 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 669
+[16-Nov-2023 16:28:44 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 672
