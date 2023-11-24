@@ -1,4 +1,7 @@
-# SimpleLearn – Learning code, made simpler
+# SimpleLearn – Learning code, made simpler ![simplelearn-logo](https://github.com/Xar-Me-Ison/simplelearn/assets/79524490/7a0a9fa1-18fd-461c-b640-f7878e0f727d)
+
+
+
 
 SimpleLearn is an online learning platform designed to help enthusiasts and developers enhance their programming skills. 
 
