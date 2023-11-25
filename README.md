@@ -1,4 +1,7 @@
-# SimpleLearn – Learning code, made simpler
+# SimpleLearn – Learning code, made simpler ![simplelearn-logo](https://github.com/Xar-Me-Ison/simplelearn/assets/79524490/7a0a9fa1-18fd-461c-b640-f7878e0f727d)
+
+
+
 
 SimpleLearn is an online learning platform designed to help enthusiasts and developers enhance their programming skills. 
 
@@ -8,7 +11,7 @@ Our platform offers a range of courses and resources for individuals at every sk
 
 ## Programming Language Courses
 
-(_Below is a brief overview of the programming language courses offered on [SimpleLearn](simplelearn.local)._)
+(_Below is a brief overview of the programming language courses offered on [SimpleLearn](https://simplelearn.local)._)
 
 ### Python
 - **Course Path**: Basic Concepts, Control Structures, Functions & Modules, Data Structures, Object-Oriented Programming (OOP), Advanced Topics.
