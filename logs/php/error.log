@@ -132,5 +132,8 @@ Stack trace:
 [22-Nov-2023 17:04:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [22-Nov-2023 17:24:28 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [22-Nov-2023 17:27:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
-[28-Nov-2023 20:06:26 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
-[28-Nov-2023 20:06:34 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-Nov-2023 17:11:34 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\harri\Local Sites\simplelearn\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-Nov-2023 17:14:13 UTC] PHP Warning:  copy(C:/Users/harri/Local Sites/simplelearn/app/public/wp-content/upgrade-temp-backup/themes/raft/style.css): Failed to open stream: No such file or directory in C:\Users\harri\Local Sites\simplelearn\app\public\wp-admin\includes\class-wp-filesystem-direct.php on line 309
+[30-Nov-2023 17:21:15 UTC] PHP Warning:  Undefined array key "form_title" in C:\Users\harri\Local Sites\simplelearn\app\public\wp-content\plugins\userswp\templates\bootstrap\forgot.php on line 11
+[30-Nov-2023 17:21:29 UTC] PHP Warning:  Undefined array key "form_title" in C:\Users\harri\Local Sites\simplelearn\app\public\wp-content\plugins\userswp\templates\bootstrap\forgot.php on line 11
+[30-Nov-2023 17:25:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
