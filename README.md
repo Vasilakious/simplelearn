@@ -8,6 +8,23 @@ SimpleLearn is an online learning platform designed to help enthusiasts and deve
 Our platform offers a range of courses and resources for individuals at every skill level, from beginners to advanced users. Whether you're looking to start your coding journey or aiming to expand your expertise, SimpleLearn has something for everyone.
 
 ---
+## Web View
+### Front Page
+#### 
+![image](https://github.com/user-attachments/assets/284ffc2f-2752-43ec-b28b-39a80b4cb11c)
+
+### Courses Page
+#### Introducing programming languages such as C, C++, Python and Java
+![image](https://github.com/user-attachments/assets/26a12c64-2477-4599-9210-f1901919641b)
+
+### Courses Content
+#### For instance, the Java Course offering an introduction and a brief historical mention, before diving into the basic concepts
+![image](https://github.com/user-attachments/assets/4442a63f-b234-4b57-9c90-d8a36ffa484c)
+
+### Cart Page
+#### Utilising e-commerce capabilities
+![image](https://github.com/user-attachments/assets/1da95beb-0aab-46a6-8679-e2e3217acf2d)
+
 
 ## Programming Language Courses
 
